@@ -8,4 +8,5 @@ class wer {
     val d = 9
     val f = "sdsdvsd"
     val e = 678
+    val h = 0
 }
